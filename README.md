@@ -68,7 +68,7 @@ COCO pretrained KeypointRCNN (ResNet-50) 로드
 ## 📁 Structure
 
 ```
-├── pose_correction.ipynb   # 전체 파이프라인 (학습 + 추론 통합, Kaggle 환경)
+├── hometraining_posecorrect.ipynb   # 전체 파이프라인 (학습 + 추론 통합, Kaggle 환경)
 └── README.md
 ```
 
